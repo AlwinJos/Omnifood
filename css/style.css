@@ -54,6 +54,7 @@ html {
   /* Default font-size - 16 */
   /* 10/16 is to calculate and get percentage(dynamic)*/
   font-size: 62.5%; /* font-size:10px    1rem = 10px*/
+  overflow-x: hidden;
 
   /* Doesnt work in safari  so use javascript, not scroll-behaviour */
   /* scroll-behavior: smooth; */
